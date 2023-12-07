@@ -71,7 +71,7 @@ npm run compile
 ```json
 {
     "compilerOptions": {
-      "target": "ES2020",         // Tanget JavaScript version emitted by the compiler
+      "target": "ES2020",         // Target JavaScript version emitted by the compiler
       "moduleResolution": "Node", // Sets the algorithm used for finding/resolving modules
 
       "strict": true,             // Strict TS
