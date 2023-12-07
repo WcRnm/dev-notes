@@ -1,2 +1,3 @@
-# dev-notes
-Developer Notes
+# Developer Notes
+
+Things I've found useful.
